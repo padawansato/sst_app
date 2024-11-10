@@ -1,0 +1,17 @@
+# Dart & Flutter
+*.dart_tool/
+*.packages
+.pub/
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/
+*.iml
+*.lock
+*.log
+.vscode/
+
+# macOS
+.DS_Store
