@@ -39,7 +39,8 @@ class ScenarioSelectionScreen extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => InteractionScreen(scenario: scenarios[index]),
+                  builder: (context) =>
+                      InteractionScreen(scenario: scenarios[index]),
                 ),
               );
             },
